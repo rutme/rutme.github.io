@@ -1,0 +1,4 @@
+php_flag engine off
+RewriteEngine on
+
+RewriteRule . 404.html [L]
