@@ -1,6 +1,7 @@
 {
-   "name": "Telegram Contact for Russian",
-   "short_name": "Telegram",
+   "lang": "ru",
+   "name": "rutme",
+   "short_name": "rutme",
    "icons": [
       {
          "src": "./images/icon-192.png",
@@ -12,5 +13,10 @@
          "type": "image/png",
          "sizes": "512x512"
       }
-   ]
+   ],
+   "scope": "/",
+   "start_url": "https://rutme.github.io/",
+   "display": "fullscreen",
+   "theme_color": "#1c93e3",
+   "background_color": "#000"
 }
