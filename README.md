@@ -1,4 +1,6 @@
 # Аналог t.me через GitHub Pages
+> **А главное зачем?**
+Лично я столкнулся с проблемой в московском метро — Moscow_WiFi_Free не открывает t.me ссылки.
 
 Просто замените [https://t.me/](https://t.me/) на [https://rutme.github.io/](https://rutme.github.io/)
 
